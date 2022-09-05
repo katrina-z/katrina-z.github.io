@@ -2,9 +2,7 @@
 
 ---
 
-### Category Name 1 
-
-## [Masters Dissertation: Predicting](https://katrina-z.github.io/Masters-Dissertation/)
+## [Masters Dissertation: Predicting Customer Churn In The Start-Up Industry Using Multiple Machine Learning Algorithms](https://katrina-z.github.io/Masters-Dissertation/)
 
 This is my masters dissertation where I used various machine learning models to predict customer churn.
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/77642758/188481479-740a898b-a280-4d7b-801e-2bc5d0133fb7.png">
