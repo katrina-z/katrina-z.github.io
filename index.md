@@ -8,20 +8,12 @@ This is my masters dissertation where I used various machine learning models to 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/77642758/188481479-740a898b-a280-4d7b-801e-2bc5d0133fb7.png">
 
 ---
-[Project 2 Title](/sample_page)
+[Stock Market Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[SQL](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
