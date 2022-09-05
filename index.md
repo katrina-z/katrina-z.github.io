@@ -4,11 +4,13 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [Masters Dissertation: Predicting](/sample_page)
+
+This is my masters dissertation where I used various machine learning models to predict customer churn.
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/77642758/188481479-740a898b-a280-4d7b-801e-2bc5d0133fb7.png">
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,13 +19,6 @@
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
