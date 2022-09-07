@@ -15,8 +15,11 @@ This is a research paper attempting to forecast the Dow Jones Index using time s
 
 
 ---
-[SQL](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [Spatial Data Visualizations](https://katrina-z.github.io/spatialdatavis/)
+
+This is a collection of spatial data visualizations created using QGIS.
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/77642758/188878300-d9300767-e0ac-4d58-b40d-50c89a286ff5.png">
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
