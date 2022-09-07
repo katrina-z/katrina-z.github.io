@@ -8,8 +8,9 @@ This is my masters dissertation where I used various machine learning models to 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/77642758/188481479-740a898b-a280-4d7b-801e-2bc5d0133fb7.png">
 
 ---
-[Stock Market Prediction](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stock Market Prediction](https://katrina-z.github.io/Stock-Market-Prediction)
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/77642758/188868514-6d522a35-3bb1-4e73-af84-e49de8cda401.png">
+
 
 ---
 [SQL](http://example.com/)
