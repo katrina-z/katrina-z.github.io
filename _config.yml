@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Early career data scientist.
   <br><br>
   <a href="https://www.linkedin.com/in/katrinazelko">View My LinkedIn</a> 
-  
+  <br><br>
   <a href="https://github.com/katrina-z">View My GitHub</a> 
   
 theme: jekyll-theme-minimal
